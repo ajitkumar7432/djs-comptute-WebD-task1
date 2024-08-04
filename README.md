@@ -1,6 +1,3 @@
-# djs-comptute-WebD-task1
-
-
 # Responsive Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills, education, projects, and contact information in a responsive and visually appealing format.
@@ -24,11 +21,18 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 - **CSS3**: For styling the website.
 - **Boxicons**: For beautiful icons throughout the site.
 
+## Project Highlights
+
+- **Seamless UI/UX Design**: Ensured a smooth and engaging user experience.
+- **Responsive Design**: Adapted to various screen sizes for optimal viewing on any device.
+- **GitHub**: Pushed code and performed documentation.
+- **Deployment**: Deployed and hosted the website on the Vercel platform.
+
 ## Purpose
 
 The purpose of this portfolio is to provide a comprehensive overview of my skills and projects as an aspiring software developer. It serves as a digital resume to showcase my capabilities and achievements to potential employers, collaborators, and anyone interested in my work.
 
-Feel free to explore the [https://djs-comptute-web-d-task1.vercel.app/](#) and contact me for any opportunities or inquiries!
+Feel free to explore the [website](https://djs-comptute-web-d-task1.vercel.app/) and contact me for any opportunities or inquiries!
 
 ## Contact
 
